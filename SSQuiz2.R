@@ -1,7 +1,7 @@
 # 1. Loading and analyzing slang usage data
 
 # Load the dataset
-MyData <- read.csv("C:\\Users\\navee\\Documents\\STAM 200\\Quiz2_DataSet1_2N.csv")
+MyData <- read.csv("C:\\Users\\navee\\Documents\\STAM 200\\Slang_Usage_Data.csv")
 print(MyData)
 
 # a) Determine the most common political ideology among GenerationX
@@ -27,7 +27,7 @@ boxplot(SlangUse ~ Generation, data = MyData, main = "Slang Usage by Generation"
 # 2. Analyzing GPA data by socioeconomic status for Business students
 
 # Load the dataset
-MyData <- read.csv("C:\\Users\\navee\\Documents\\STAM 200\\Quiz2_DataSet4_1N.csv")
+MyData <- read.csv("C:\\Users\\navee\\Documents\\STAM 200\\Business_GPA_Socioeconomic_Data.csv")
 # Filter data for Business students
 business_data <- MyData[MyData$Program == "Business", ]
 # Ensure SocioeconomicStatus is treated as a factor with specific levels
