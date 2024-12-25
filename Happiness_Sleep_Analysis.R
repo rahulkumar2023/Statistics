@@ -2,7 +2,7 @@
 setwd("C:/Users/navee/Documents/STAM 200")
 
 # Read the CSV file
-data <- read.csv("Happiness_Data.csv")
+data <- read.csv("Happiness_Data_with_participant_group.csv")
 
 # Calculate the IQR for the Happiness column
 happiness_IQR <- IQR(data$Happiness)
