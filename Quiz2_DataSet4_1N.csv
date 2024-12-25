@@ -1,0 +1,1498 @@
+FirstYearGPA,LastYearGPA,SocioeconomicStatus,Program
+1.2,1.7,low,Business
+1.2,2.3,low,Business
+1.2,2.5,low,Business
+1.3,2.4,low,Business
+1.3,1.5,low,Business
+1.3,3.1,low,Business
+1.3,2.6,low,Business
+1.3,3.1,low,Business
+1.4,2,low,Business
+1.4,3.4,low,Business
+1.5,2.4,low,Business
+1.5,2.7,low,Business
+1.5,2.4,low,Business
+1.6,3,low,Business
+1.6,3.4,low,Business
+1.6,3.5,low,Business
+1.6,3.5,low,Business
+1.7,1.9,medium,Business
+1.7,2.4,medium,Business
+1.7,3.1,medium,Business
+1.7,2.8,medium,Business
+1.7,2.8,medium,Business
+1.7,3.4,low,Business
+1.7,3.2,medium,Business
+1.7,3.7,low,Business
+1.8,1.5,medium,Business
+1.8,2.7,low,Business
+1.8,2.3,low,Business
+1.8,3,low,Business
+1.8,3,low,Business
+1.8,3,medium,Business
+1.9,2.5,medium,Business
+1.9,2.4,medium,Business
+1.9,2.4,medium,Business
+1.9,1.5,medium,Business
+1.9,1.7,medium,Business
+1.9,2.9,low,Business
+1.9,3.1,medium,Business
+1.9,2.7,low,Business
+1.9,2.9,low,Business
+1.9,3.7,medium,Business
+2,2.5,low,Business
+2,1.6,low,Business
+2,3.1,medium,Business
+2,3.4,medium,Business
+2,3.4,medium,Business
+2.1,1.2,medium,Business
+2.1,1.5,medium,Business
+2.1,1.8,medium,Business
+2.1,2.9,medium,Business
+2.1,2,low,Business
+2.1,2.7,low,Business
+2.1,3.2,medium,Business
+2.2,2.4,low,Business
+2.2,2.4,low,Business
+2.2,1.6,medium,Business
+2.2,1.8,high,Business
+2.2,1.8,high,Business
+2.2,1.9,high,Business
+2.2,2,high,Business
+2.2,2,high,Business
+2.2,2,medium,Business
+2.2,2.1,high,Business
+2.2,2.3,medium,Business
+2.2,2.4,high,Business
+2.2,3,low,Business
+2.2,3,medium,Business
+2.2,3,high,Business
+2.2,3.4,high,Business
+2.3,2.5,medium,Business
+2.3,2.5,medium,Business
+2.3,1.5,high,Business
+2.3,1.7,high,Business
+2.3,1.9,high,Business
+2.3,2,high,Business
+2.3,2,low,Business
+2.3,2,high,Business
+2.3,3.1,medium,Business
+2.3,3.1,low,Business
+2.3,2.7,high,Business
+2.3,2.4,low,Business
+2.3,2.4,medium,Business
+2.3,2.6,medium,Business
+2.3,2.8,high,Business
+2.3,3.1,medium,Business
+2.3,3.1,high,Business
+2.3,3.2,high,Business
+2.3,3.5,high,Business
+2.3,3.2,high,Business
+2.4,1.8,medium,Business
+2.4,2.9,low,Business
+2.4,2,high,Business
+2.4,2.1,high,Business
+2.4,2.7,high,Business
+2.4,2.5,low,Business
+2.4,3.4,low,Business
+2.4,3.6,high,Business
+2.4,3,low,Business
+2.5,1.4,low,Business
+2.5,1.4,low,Business
+2.5,1.6,high,Business
+2.5,1.7,medium,Business
+2.5,1.8,medium,Business
+2.5,2.9,medium,Business
+2.5,2,high,Business
+2.5,3.1,medium,Business
+2.5,2.5,low,Business
+2.5,2.6,medium,Business
+2.5,2.7,medium,Business
+2.5,2.9,medium,Business
+2.5,3,low,Business
+2.5,3,low,Business
+2.5,3.4,high,Business
+2.5,3.8,low,Business
+2.5,3.2,medium,Business
+2.5,4.1,low,Business
+2.6,1.5,high,Business
+2.6,1.6,high,Business
+2.6,1.7,low,Business
+2.6,2,low,Business
+2.6,2.1,high,Business
+2.6,2.7,medium,Business
+2.6,2.5,medium,Business
+2.6,2.6,medium,Business
+2.6,2.6,high,Business
+2.6,2.7,high,Business
+2.6,2.7,high,Business
+2.6,2.9,medium,Business
+2.6,3.2,medium,Business
+2.6,3.9,medium,Business
+2.6,3.5,low,Business
+2.6,3.5,medium,Business
+2.6,3.2,medium,Business
+2.6,3.7,low,Business
+2.7,1.5,medium,Business
+2.7,1.7,medium,Business
+2.7,2.9,high,Business
+2.7,1.9,high,Business
+2.7,3.1,low,Business
+2.7,2.3,low,Business
+2.7,2.4,low,Business
+2.7,2.5,high,Business
+2.7,2.6,high,Business
+2.7,2.7,high,Business
+2.7,2.8,high,Business
+2.7,2.8,high,Business
+2.7,3,high,Business
+2.7,3,medium,Business
+2.7,3,high,Business
+2.7,3.1,high,Business
+2.7,3.1,high,Business
+2.7,3.2,medium,Business
+2.7,3.3,low,Business
+2.7,3.6,medium,Business
+2.7,3.6,low,Business
+2.7,3.8,high,Business
+2.7,3.2,medium,Business
+2.8,1.5,low,Business
+2.8,1.8,medium,Business
+2.8,2.1,high,Business
+2.8,2.8,high,Business
+2.8,2.9,high,Business
+2.8,3,medium,Business
+2.8,3.4,high,Business
+2.8,3.4,low,Business
+2.8,3.5,high,Business
+2.8,3.6,medium,Business
+2.8,3.6,high,Business
+2.8,3.6,low,Business
+2.8,3.7,medium,Business
+2.8,3.9,medium,Business
+2.8,4.1,low,Business
+2.8,4.1,low,Business
+2.8,3.7,low,Business
+2.9,1.6,high,Business
+2.9,2,high,Business
+2.9,3.1,medium,Business
+2.9,2.3,medium,Business
+2.9,2.4,medium,Business
+2.9,2.5,medium,Business
+2.9,2.6,high,Business
+2.9,2.6,low,Business
+2.9,2.8,medium,Business
+2.9,3.5,medium,Business
+2.9,3.7,low,Business
+3,2,medium,Business
+3,2.1,high,Business
+3,2.2,medium,Business
+3,2.3,low,Business
+3,2.3,high,Business
+3,2.4,high,Business
+3,2.5,medium,Business
+3,2.6,high,Business
+3,2.9,high,Business
+3,3,medium,Business
+3,3,medium,Business
+3,3,medium,Business
+3,3,high,Business
+3,3.1,high,Business
+3,3.2,low,Business
+3,3.2,medium,Business
+3,3.2,medium,Business
+3,3.3,low,Business
+3,3.4,medium,Business
+3,3.4,high,Business
+3,3.5,high,Business
+3,3.5,low,Business
+3,3.6,high,Business
+3,3.6,high,Business
+3,3.6,low,Business
+3,3.6,medium,Business
+3,3.7,medium,Business
+3,3.7,low,Business
+3,3.7,medium,Business
+3,3.7,medium,Business
+3,3.8,high,Business
+3,3.5,high,Business
+3,3.7,low,Business
+3.1,2,low,Business
+3.1,2.1,high,Business
+3.1,2.2,high,Business
+3.1,2.4,high,Business
+3.1,2.5,medium,Business
+3.1,2.5,high,Business
+3.1,2.6,low,Business
+3.1,2.6,medium,Business
+3.1,2.7,high,Business
+3.1,3.5,low,Business
+3.1,3.6,high,Business
+3.1,3.7,low,Business
+3.1,3.7,low,Business
+3.1,3.7,medium,Business
+3.1,3.8,low,Business
+3.1,3.8,high,Business
+3.1,3.8,medium,Business
+3.1,3.9,high,Business
+3.1,3.5,medium,Business
+3.1,3,medium,Business
+3.1,4.1,low,Business
+3.1,3.7,high,Business
+3.2,2.3,high,Business
+3.2,2.5,medium,Business
+3.2,2.7,high,Business
+3.2,2.8,low,Business
+3.2,3,low,Business
+3.2,3.1,high,Business
+3.2,3.2,high,Business
+3.2,3.3,high,Business
+3.2,3.4,high,Business
+3.2,3.4,low,Business
+3.2,3.7,high,Business
+3.2,3.7,high,Business
+3.2,3.9,low,Business
+3.2,3.9,low,Business
+3.2,3,low,Business
+3.2,4.1,low,Business
+3.3,2.1,high,Business
+3.3,2.5,low,Business
+3.3,2.5,medium,Business
+3.3,2.8,medium,Business
+3.3,3.4,low,Business
+3.3,3.5,high,Business
+3.3,3.5,low,Business
+3.4,2.1,high,Business
+3.4,2.5,low,Business
+3.4,2.5,medium,Business
+3.4,3,low,Business
+3.4,3.3,low,Business
+3.4,3.3,high,Business
+3.4,3.6,medium,Business
+3.4,3.8,low,Business
+3.4,4,medium,Business
+3.4,4,low,Business
+3.4,3.7,high,Business
+3.5,3.3,low,Business
+3.5,3.4,medium,Business
+3.5,3.8,low,Business
+3.5,3.8,high,Business
+3.5,3.5,high,Business
+3.5,4,medium,Business
+3.6,2.1,medium,Business
+3.6,2.5,high,Business
+3.6,2.8,high,Business
+3.6,2.8,high,Business
+3.6,3.1,medium,Business
+3.7,2.9,low,Business
+3.7,3,medium,Business
+3.7,3.1,high,Business
+3.7,3.3,low,Business
+3.7,3.3,medium,Business
+3.8,3.5,high,Business
+3.8,3.9,low,Business
+3.8,3.5,high,Business
+3.8,4.1,low,Business
+3.9,2.6,high,Business
+3.9,3.3,medium,Business
+4,3.4,medium,Business
+4,3,high,Business
+1.2,1.5,low,Engineering
+2.7,3,low,Engineering
+2,2.3,low,Engineering
+2.4,2.7,low,Engineering
+3.2,3.5,low,Engineering
+1.2,1.5,low,Engineering
+2.3,2.6,low,Engineering
+1.1,1.4,low,Engineering
+2.5,2.8,low,Engineering
+2.3,2.6,low,Engineering
+2.9,3.2,low,Engineering
+1,1.3,medium,Engineering
+2.1,2.4,medium,Engineering
+2.1,2.4,medium,Engineering
+1.4,1.7,medium,Engineering
+1.4,1.7,medium,Engineering
+1.4,1.7,medium,Engineering
+1.4,1.7,medium,Engineering
+2.5,2.8,low,Engineering
+2.7,3,medium,Engineering
+2.5,2.8,medium,Engineering
+2.9,3.2,low,Engineering
+1.4,1.7,low,Engineering
+1.4,1.7,medium,Engineering
+2.1,2.4,low,Engineering
+2.5,2.8,medium,Engineering
+2,2.3,low,Engineering
+2,2.3,low,Engineering
+2,2.3,low,Engineering
+2,2.3,medium,Engineering
+1.2,1.5,medium,Engineering
+1.4,1.7,medium,Engineering
+2.5,2.8,medium,Engineering
+2.3,2.6,medium,Engineering
+2.3,2.6,medium,Engineering
+2.3,2.6,medium,Engineering
+1.8,2.1,medium,Engineering
+2.1,2.4,medium,Engineering
+2.6,2.9,low,Engineering
+3,3.3,low,Engineering
+3,3.3,low,Engineering
+3.2,3.5,medium,Engineering
+3.3,3.6,low,Engineering
+2.8,3.1,low,Engineering
+2.3,2.6,low,Engineering
+3.1,3.4,medium,Engineering
+1.8,2.1,low,Engineering
+2,2.3,high,Engineering
+1,1.3,high,Engineering
+1.5,1.8,high,Engineering
+1.5,1.8,high,Engineering
+2.7,3,medium,Engineering
+1.9,2.2,high,Engineering
+2,2.3,low,Engineering
+2.3,2.6,high,Engineering
+2.6,2.9,low,Engineering
+2.9,3.2,medium,Engineering
+3,3.3,low,Engineering
+1.1,1.4,medium,Engineering
+1.3,1.6,medium,Engineering
+1.4,1.7,high,Engineering
+1.7,2,high,Engineering
+2.3,2.6,low,Engineering
+2.3,2.6,medium,Engineering
+2,2.3,low,Engineering
+2.2,2.5,high,Engineering
+2.2,2.5,high,Engineering
+2.3,2.6,high,Engineering
+2.4,2.7,medium,Engineering
+2.5,2.8,low,Engineering
+1,1.3,medium,Engineering
+1.3,1.6,medium,Engineering
+1.3,1.6,high,Engineering
+1.5,1.8,high,Engineering
+1.7,2,high,Engineering
+1.9,2.2,high,Engineering
+2,2.3,high,Engineering
+2.1,2.4,high,Engineering
+2.2,2.5,medium,Engineering
+2.2,2.5,high,Engineering
+2.2,2.5,medium,Engineering
+2.3,2.6,low,Engineering
+2.8,3.1,medium,Engineering
+3,3.3,low,Engineering
+3.3,3.6,medium,Engineering
+2,2.3,high,Engineering
+1.2,1.5,high,Engineering
+1.4,1.7,high,Engineering
+1.4,1.7,medium,Engineering
+1.4,1.7,medium,Engineering
+1.6,1.9,low,Engineering
+1.6,1.9,low,Engineering
+2.7,3,medium,Engineering
+2.7,3,medium,Engineering
+2,2.3,high,Engineering
+2.4,2.7,high,Engineering
+2.6,2.9,high,Engineering
+2.6,2.9,low,Engineering
+2.1,2.4,medium,Engineering
+1.1,1.4,high,Engineering
+1.3,1.6,low,Engineering
+2,2.3,high,Engineering
+2.1,2.4,high,Engineering
+2.2,2.5,high,Engineering
+2.2,2.5,low,Engineering
+2.3,2.6,high,Engineering
+2.3,2.6,high,Engineering
+2.3,2.6,high,Engineering
+2.4,2.7,low,Engineering
+2.5,2.8,low,Engineering
+2.5,2.8,low,Engineering
+2.6,2.9,high,Engineering
+2.8,3.1,low,Engineering
+2.8,3.1,high,Engineering
+2.9,3.2,medium,Engineering
+2.9,3.2,medium,Engineering
+3,3.3,low,Engineering
+3.3,3.6,low,Engineering
+2.6,2.9,low,Engineering
+2.1,2.4,high,Engineering
+1,1.3,high,Engineering
+1.1,1.4,high,Engineering
+1.1,1.4,medium,Engineering
+1.4,1.7,high,Engineering
+1.5,1.8,high,Engineering
+1.6,1.9,low,Engineering
+1.7,2,high,Engineering
+2.1,2.4,high,Engineering
+2.2,2.5,low,Engineering
+2.2,2.5,low,Engineering
+2.6,2.9,high,Engineering
+2.7,3,medium,Engineering
+2.9,3.2,high,Engineering
+3,3.3,low,Engineering
+3,3.3,medium,Engineering
+3,3.3,medium,Engineering
+3.2,3.5,low,Engineering
+3.3,3.6,low,Engineering
+3.7,4,high,Engineering
+3.3,3.6,medium,Engineering
+1.3,1.6,medium,Engineering
+1.5,1.8,high,Engineering
+1.9,2.2,high,Engineering
+2,2.3,low,Engineering
+2,2.3,medium,Engineering
+2.2,2.5,medium,Engineering
+2.5,2.8,high,Engineering
+2.6,2.9,medium,Engineering
+2.6,2.9,high,Engineering
+3,3.3,high,Engineering
+3,3.3,low,Engineering
+3,3.3,low,Engineering
+3.2,3.5,low,Engineering
+3.3,3.6,high,Engineering
+2.5,2.8,medium,Engineering
+2.5,2.8,medium,Engineering
+1.6,1.9,medium,Engineering
+1.8,2.1,high,Engineering
+2.1,2.4,low,Engineering
+2.2,2.5,low,Engineering
+2.3,2.6,low,Engineering
+2.4,2.7,high,Engineering
+2.4,2.7,high,Engineering
+2.5,2.8,low,Engineering
+2.6,2.9,high,Engineering
+2.9,3.2,high,Engineering
+3.1,3.4,high,Engineering
+3.6,3.9,high,Engineering
+3.3,3.6,medium,Engineering
+3.8,4.1,low,Engineering
+2,2.3,high,Engineering
+2,2.3,high,Engineering
+1.2,1.5,low,Engineering
+2.5,2.8,medium,Engineering
+1.6,1.9,high,Engineering
+1.6,1.9,medium,Engineering
+1.7,2,medium,Engineering
+2,2.3,high,Engineering
+2,2.3,high,Engineering
+2,2.3,medium,Engineering
+2.1,2.4,medium,Engineering
+2.2,2.5,medium,Engineering
+2.2,2.5,medium,Engineering
+2.4,2.7,low,Engineering
+2.4,2.7,low,Engineering
+2.4,2.7,high,Engineering
+2.4,2.7,low,Engineering
+2.5,2.8,high,Engineering
+2.5,2.8,medium,Engineering
+2.6,2.9,low,Engineering
+2.6,2.9,high,Engineering
+2.7,3,high,Engineering
+2.7,3,high,Engineering
+2.8,3.1,high,Engineering
+2.8,3.1,high,Engineering
+2.8,3.1,low,Engineering
+3,3.3,low,Engineering
+3.1,3.4,medium,Engineering
+3.2,3.5,medium,Engineering
+3.2,3.5,medium,Engineering
+3.2,3.5,low,Engineering
+3.2,3.5,low,Engineering
+3.5,3.8,low,Engineering
+3.3,3.6,low,Engineering
+3.3,3.6,medium,Engineering
+3.6,3.9,low,Engineering
+3.6,3.9,medium,Engineering
+2.8,3.1,medium,Engineering
+3.3,3.6,low,Engineering
+1.8,2.1,high,Engineering
+2.1,2.4,medium,Engineering
+1.2,1.5,high,Engineering
+1.3,1.6,high,Engineering
+2.5,2.8,medium,Engineering
+1.6,1.9,high,Engineering
+1.7,2,low,Engineering
+1.7,2,low,Engineering
+1.9,2.2,low,Engineering
+2.3,2.6,medium,Engineering
+2.3,2.6,high,Engineering
+2.4,2.7,medium,Engineering
+2.4,2.7,high,Engineering
+2.4,2.7,medium,Engineering
+2.4,2.7,high,Engineering
+2.9,3.2,low,Engineering
+3,3.3,high,Engineering
+3.1,3.4,high,Engineering
+3.1,3.4,high,Engineering
+3.1,3.4,high,Engineering
+3.2,3.5,medium,Engineering
+3.3,3.6,medium,Engineering
+3.4,3.7,low,Engineering
+3.4,3.7,high,Engineering
+3.4,3.7,low,Engineering
+3.5,3.8,medium,Engineering
+3.5,3.8,medium,Engineering
+3.5,3.8,low,Engineering
+2.6,2.9,high,Engineering
+3.3,3.6,high,Engineering
+2.1,2.4,low,Engineering
+1.1,1.4,high,Engineering
+2.5,2.8,low,Engineering
+2.1,2.4,medium,Engineering
+2.4,2.7,medium,Engineering
+2.4,2.7,medium,Engineering
+3.1,3.4,medium,Engineering
+3.1,3.4,low,Engineering
+3.1,3.4,high,Engineering
+3.3,3.6,medium,Engineering
+3.7,4,low,Engineering
+1.1,1.4,high,Engineering
+1.1,1.4,high,Engineering
+2.5,2.8,medium,Engineering
+2.5,2.8,low,Engineering
+3.1,3.4,high,Engineering
+3.4,3.7,low,Engineering
+3.6,3.9,high,Engineering
+3.8,4.1,medium,Engineering
+1.4,1.7,high,Engineering
+2.6,2.9,low,Engineering
+3.2,3.5,low,Engineering
+3.4,3.7,low,Engineering
+3.5,3.8,low,Engineering
+3.5,3.8,medium,Engineering
+3.1,3.4,medium,Engineering
+2.8,3.1,medium,Engineering
+3.8,4.1,low,Engineering
+3.8,4.1,low,Engineering
+2.3,2.6,medium,Engineering
+2.4,2.7,medium,Engineering
+2.6,2.9,high,Engineering
+2.7,3,high,Engineering
+3,3.3,high,Engineering
+3.1,3.4,medium,Engineering
+3.1,3.4,high,Engineering
+3.2,3.5,medium,Engineering
+2.6,2.9,high,Engineering
+1.9,2.2,medium,Engineering
+2.5,2.8,medium,Engineering
+3.1,3.4,low,Engineering
+3.3,3.6,medium,Engineering
+3.5,3.8,low,Engineering
+3.3,3.6,low,Engineering
+3.4,3.7,medium,Engineering
+3.4,3.7,medium,Engineering
+3.4,3.7,low,Engineering
+3.8,4.1,low,Engineering
+1.7,2,medium,Engineering
+2.8,3.1,medium,Engineering
+2.8,3.1,medium,Engineering
+3,3.3,high,Engineering
+2.6,2.9,high,Engineering
+3,3.3,high,Engineering
+3.4,3.7,medium,Engineering
+3.6,3.9,high,Engineering
+3,3.3,high,Engineering
+3,3.3,high,Engineering
+3,3.3,low,Engineering
+3.5,3.8,high,Engineering
+3.4,3.7,low,Engineering
+2.8,3.1,high,Engineering
+1,1.6,low,Health sciences
+1,2.5,low,Health sciences
+1,2.6,low,Health sciences
+1,3.2,low,Health sciences
+1.1,2.6,low,Health sciences
+1.1,3.5,low,Health sciences
+1.2,1.4,low,Health sciences
+1.2,1.6,low,Health sciences
+1.2,2.7,low,Health sciences
+1.2,2.8,low,Health sciences
+1.2,2.9,low,Health sciences
+1.2,2.5,low,Health sciences
+1.2,2.5,low,Health sciences
+1.2,2.1,low,Health sciences
+1.3,1.3,low,Health sciences
+1.3,2.5,low,Health sciences
+1.4,1.8,low,Health sciences
+1.5,1.4,medium,Health sciences
+1.5,1.6,medium,Health sciences
+1.5,2.7,low,Health sciences
+1.5,1.8,medium,Health sciences
+1.5,1.8,medium,Health sciences
+1.5,2.9,medium,Health sciences
+1.5,2.2,medium,Health sciences
+1.5,2.9,medium,Health sciences
+1.6,1,low,Health sciences
+1.6,1.4,medium,Health sciences
+1.6,1.6,low,Health sciences
+1.6,2.4,low,Health sciences
+1.6,2.5,medium,Health sciences
+1.6,2.6,medium,Health sciences
+1.6,3.1,low,Health sciences
+1.7,2.7,medium,Health sciences
+1.7,2.9,medium,Health sciences
+1.7,2.5,medium,Health sciences
+1.7,2.5,medium,Health sciences
+1.7,2.8,medium,Health sciences
+1.7,2.8,medium,Health sciences
+1.7,3.3,low,Health sciences
+1.7,3.4,low,Health sciences
+1.7,3.4,low,Health sciences
+1.8,2.2,low,Health sciences
+1.8,2.2,low,Health sciences
+1.8,1.8,low,Health sciences
+1.8,2.5,medium,Health sciences
+1.8,2.9,medium,Health sciences
+1.9,2.2,medium,Health sciences
+1.9,2.9,medium,Health sciences
+1.9,2.7,medium,Health sciences
+1.9,2.7,low,Health sciences
+1.9,3.3,low,Health sciences
+2,2.9,low,Health sciences
+2,2.9,medium,Health sciences
+2,2.5,medium,Health sciences
+2,2.5,low,Health sciences
+2,2.2,high,Health sciences
+2,2.5,medium,Health sciences
+2,2.6,medium,Health sciences
+2,2.7,high,Health sciences
+2,2.8,medium,Health sciences
+2,2.8,low,Health sciences
+2,3.2,medium,Health sciences
+2,3.5,medium,Health sciences
+2.1,1.4,low,Health sciences
+2.1,1.5,low,Health sciences
+2.1,2.9,low,Health sciences
+2.1,2.1,low,Health sciences
+2.1,2.4,medium,Health sciences
+2.1,2.6,high,Health sciences
+2.1,2.8,high,Health sciences
+2.1,3,medium,Health sciences
+2.1,3.4,low,Health sciences
+2.1,2.8,low,Health sciences
+2.2,1.2,high,Health sciences
+2.2,1.4,high,Health sciences
+2.2,1.5,high,Health sciences
+2.2,1.9,high,Health sciences
+2.2,2.6,medium,Health sciences
+2.2,3,high,Health sciences
+2.2,3.3,low,Health sciences
+2.2,3.3,medium,Health sciences
+2.3,2,high,Health sciences
+2.3,1.3,high,Health sciences
+2.3,1.3,low,Health sciences
+2.3,1.5,medium,Health sciences
+2.3,1.6,high,Health sciences
+2.3,2.7,low,Health sciences
+2.3,2.7,low,Health sciences
+2.3,2.3,low,Health sciences
+2.3,2.6,high,Health sciences
+2.3,2.7,low,Health sciences
+2.3,2.8,medium,Health sciences
+2.3,2.8,high,Health sciences
+2.3,3,medium,Health sciences
+2.3,3.2,medium,Health sciences
+2.3,3.3,high,Health sciences
+2.3,4,low,Health sciences
+2.4,2,medium,Health sciences
+2.4,2.3,high,Health sciences
+2.4,2.3,high,Health sciences
+2.4,1.3,high,Health sciences
+2.4,1.6,medium,Health sciences
+2.4,1.7,high,Health sciences
+2.4,1.9,high,Health sciences
+2.4,2.9,medium,Health sciences
+2.4,2,medium,Health sciences
+2.4,2.2,low,Health sciences
+2.4,2.5,high,Health sciences
+2.4,2.6,high,Health sciences
+2.4,2.7,low,Health sciences
+2.4,3,high,Health sciences
+2.4,3,medium,Health sciences
+2.4,3.4,medium,Health sciences
+2.4,3.8,medium,Health sciences
+2.5,1.2,high,Health sciences
+2.5,1.5,medium,Health sciences
+2.5,1.8,low,Health sciences
+2.5,2.5,high,Health sciences
+2.5,2.5,high,Health sciences
+2.5,2,medium,Health sciences
+2.5,2.1,medium,Health sciences
+2.5,2.3,medium,Health sciences
+2.5,2.4,high,Health sciences
+2.5,2.5,medium,Health sciences
+2.5,2.6,high,Health sciences
+2.5,2.8,medium,Health sciences
+2.5,2.9,medium,Health sciences
+2.5,3.2,low,Health sciences
+2.5,3.2,high,Health sciences
+2.5,3.3,high,Health sciences
+2.5,3.4,low,Health sciences
+2.5,3.7,low,Health sciences
+2.5,3.8,high,Health sciences
+2.6,1.5,medium,Health sciences
+2.6,2.1,high,Health sciences
+2.6,2.6,high,Health sciences
+2.6,2.7,low,Health sciences
+2.6,2.8,low,Health sciences
+2.6,2.9,high,Health sciences
+2.6,3,high,Health sciences
+2.6,3.3,high,Health sciences
+2.6,3.3,medium,Health sciences
+2.6,3.5,low,Health sciences
+2.6,3.5,low,Health sciences
+2.7,1.5,high,Health sciences
+2.7,1.8,medium,Health sciences
+2.7,1.8,high,Health sciences
+2.7,2.3,medium,Health sciences
+2.7,2.3,high,Health sciences
+2.7,2.6,low,Health sciences
+2.7,2.6,medium,Health sciences
+2.7,2.6,high,Health sciences
+2.7,2.6,high,Health sciences
+2.7,2.7,low,Health sciences
+2.7,2.9,low,Health sciences
+2.7,3,low,Health sciences
+2.7,3.1,medium,Health sciences
+2.7,3.3,high,Health sciences
+2.7,3.5,medium,Health sciences
+2.7,3.6,low,Health sciences
+2.7,3.5,high,Health sciences
+2.8,2,medium,Health sciences
+2.8,2.1,medium,Health sciences
+2.8,1.6,medium,Health sciences
+2.8,1.7,high,Health sciences
+2.8,1.7,high,Health sciences
+2.8,1.8,low,Health sciences
+2.8,1.9,high,Health sciences
+2.8,1.9,medium,Health sciences
+2.8,2.5,high,Health sciences
+2.8,2.2,low,Health sciences
+2.8,2.3,low,Health sciences
+2.8,2.3,medium,Health sciences
+2.8,2.4,high,Health sciences
+2.8,2.6,medium,Health sciences
+2.8,2.6,medium,Health sciences
+2.8,2.6,low,Health sciences
+2.8,2.6,high,Health sciences
+2.8,2.8,low,Health sciences
+2.8,2.8,high,Health sciences
+2.8,2.8,high,Health sciences
+2.8,2.9,low,Health sciences
+2.8,3,high,Health sciences
+2.8,3.1,high,Health sciences
+2.8,3.2,low,Health sciences
+2.8,3.3,medium,Health sciences
+2.8,3.3,low,Health sciences
+2.8,3.3,medium,Health sciences
+2.8,3.3,high,Health sciences
+2.8,3.4,high,Health sciences
+2.8,3.5,medium,Health sciences
+2.8,3.5,low,Health sciences
+2.8,3.6,medium,Health sciences
+2.8,3.5,medium,Health sciences
+2.8,2.8,low,Health sciences
+2.8,3,low,Health sciences
+2.9,1.5,high,Health sciences
+2.9,1.6,high,Health sciences
+2.9,1.9,high,Health sciences
+2.9,2.5,high,Health sciences
+2.9,2.1,low,Health sciences
+2.9,2.3,low,Health sciences
+2.9,2.3,medium,Health sciences
+2.9,2.3,high,Health sciences
+2.9,2.4,medium,Health sciences
+2.9,2.4,medium,Health sciences
+2.9,2.5,high,Health sciences
+2.9,2.5,low,Health sciences
+2.9,2.8,medium,Health sciences
+2.9,2.8,high,Health sciences
+2.9,2.8,medium,Health sciences
+2.9,2.8,medium,Health sciences
+2.9,2.8,medium,Health sciences
+2.9,2.8,high,Health sciences
+2.9,2.9,high,Health sciences
+2.9,2.9,high,Health sciences
+2.9,2.9,low,Health sciences
+2.9,3,low,Health sciences
+2.9,3.1,low,Health sciences
+2.9,3.2,medium,Health sciences
+2.9,3.2,high,Health sciences
+2.9,3.3,high,Health sciences
+2.9,3.3,high,Health sciences
+2.9,3.3,high,Health sciences
+2.9,3.4,high,Health sciences
+2.9,3.4,high,Health sciences
+2.9,3.4,medium,Health sciences
+2.9,3.5,low,Health sciences
+2.9,2.8,low,Health sciences
+2.9,3.9,high,Health sciences
+2.9,3.9,high,Health sciences
+2.9,3.9,low,Health sciences
+2.9,3.5,high,Health sciences
+3,2.7,medium,Health sciences
+3,1.9,low,Health sciences
+3,2.1,high,Health sciences
+3,2.2,high,Health sciences
+3,2.3,high,Health sciences
+3,2.8,medium,Health sciences
+3,2.9,high,Health sciences
+3,3,high,Health sciences
+3,3.1,high,Health sciences
+3,3.4,high,Health sciences
+3,3.4,low,Health sciences
+3,3.5,low,Health sciences
+3,3.6,low,Health sciences
+3,3.7,high,Health sciences
+3,3.8,medium,Health sciences
+3,3,medium,Health sciences
+3,3.9,medium,Health sciences
+3,3.9,medium,Health sciences
+3,3.9,medium,Health sciences
+3,3.5,medium,Health sciences
+3.1,2.8,high,Health sciences
+3.1,2.8,high,Health sciences
+3.1,3,medium,Health sciences
+3.1,3.2,medium,Health sciences
+3.1,3.7,low,Health sciences
+3.1,4,low,Health sciences
+3.2,2.3,high,Health sciences
+3.2,2.3,high,Health sciences
+3.2,2.7,high,Health sciences
+3.2,2.9,medium,Health sciences
+3.2,3.1,low,Health sciences
+3.2,3.2,low,Health sciences
+3.2,3.2,low,Health sciences
+3.2,3.2,medium,Health sciences
+3.2,3.3,medium,Health sciences
+3.2,3.3,low,Health sciences
+3.2,3.4,high,Health sciences
+3.2,3.4,high,Health sciences
+3.2,3.7,low,Health sciences
+3.2,3.7,medium,Health sciences
+3.2,3.9,high,Health sciences
+3.2,3.9,medium,Health sciences
+3.3,1.9,low,Health sciences
+3.3,2,high,Health sciences
+3.3,2.8,medium,Health sciences
+3.3,2.8,high,Health sciences
+3.3,3.3,medium,Health sciences
+3.3,3.4,medium,Health sciences
+3.3,3.9,high,Health sciences
+3.4,3,low,Health sciences
+3.4,3.5,medium,Health sciences
+3.4,3.7,low,Health sciences
+3.4,3.9,low,Health sciences
+3.5,3.2,low,Health sciences
+3.5,2.8,medium,Health sciences
+3.5,4,low,Health sciences
+3.6,2,low,Health sciences
+3.6,2,high,Health sciences
+3.6,2.4,high,Health sciences
+3.6,3.4,medium,Health sciences
+3.6,3.7,high,Health sciences
+3.6,3.8,medium,Health sciences
+3.7,3.2,high,Health sciences
+3.7,3.7,low,Health sciences
+3.9,3,high,Health sciences
+4,3.4,high,Health sciences
+4,3.5,high,Health sciences
+1.3,1.5,low,History
+1.3,2.8,low,History
+1.3,2.8,low,History
+1.4,2.7,low,History
+1.5,1.9,low,History
+1.5,3.7,low,History
+1.6,1.7,low,History
+1.6,3,low,History
+1.6,2.8,low,History
+1.6,3.1,low,History
+1.6,3.5,low,History
+1.7,3.2,low,History
+1.8,1.7,medium,History
+1.8,1.7,medium,History
+1.8,2.8,medium,History
+1.8,3.5,low,History
+1.8,3.5,low,History
+1.9,2.5,medium,History
+1.9,1.9,low,History
+1.9,3.2,low,History
+1.9,3.2,medium,History
+1.9,2.8,low,History
+1.9,3.1,low,History
+1.9,3.1,medium,History
+1.9,3.6,medium,History
+1.9,3.6,medium,History
+1.9,3.8,low,History
+2,1.6,medium,History
+2,1.8,medium,History
+2,2.6,medium,History
+2,2.9,medium,History
+2,3,low,History
+2,3.1,low,History
+2,3.2,medium,History
+2,3.7,low,History
+2.1,1.3,medium,History
+2.1,1.8,low,History
+2.1,2.8,medium,History
+2.1,2.9,low,History
+2.1,3.2,low,History
+2.1,3.2,medium,History
+2.1,3.5,medium,History
+2.1,3.6,medium,History
+2.2,3,low,History
+2.2,2.8,medium,History
+2.2,3.1,low,History
+2.2,3.5,medium,History
+2.3,2.6,high,History
+2.3,1.6,medium,History
+2.3,1.7,low,History
+2.3,1.8,high,History
+2.3,2.1,high,History
+2.3,2.6,medium,History
+2.3,2.9,high,History
+2.3,3.7,low,History
+2.4,1.5,medium,History
+2.4,1.5,medium,History
+2.4,1.8,medium,History
+2.4,2,high,History
+2.4,2.1,low,History
+2.4,2.1,low,History
+2.4,2.2,high,History
+2.4,2.8,low,History
+2.4,2.8,high,History
+2.4,2.8,low,History
+2.4,2.8,high,History
+2.4,3.1,medium,History
+2.4,3.1,low,History
+2.4,3.8,medium,History
+2.5,2.6,medium,History
+2.5,1.9,high,History
+2.5,2.4,high,History
+2.5,2.7,low,History
+2.5,2.7,high,History
+2.5,2.8,high,History
+2.5,2.9,medium,History
+2.5,3,medium,History
+2.5,3.2,low,History
+2.5,3.5,low,History
+2.5,3.5,low,History
+2.6,1.5,low,History
+2.6,1.7,high,History
+2.6,3,medium,History
+2.6,2.1,high,History
+2.6,2.4,low,History
+2.6,2.5,high,History
+2.6,2.5,high,History
+2.6,2.6,medium,History
+2.6,2.7,medium,History
+2.6,2.7,medium,History
+2.6,2.9,high,History
+2.6,3,medium,History
+2.6,3.1,high,History
+2.6,3.1,low,History
+2.6,3.2,medium,History
+2.6,3.4,low,History
+2.6,3.5,low,History
+2.6,3.5,low,History
+2.6,3.5,low,History
+2.6,3.9,low,History
+2.6,3.6,low,History
+2.6,3.8,high,History
+2.7,1.6,high,History
+2.7,1.7,high,History
+2.7,1.9,low,History
+2.7,2.1,high,History
+2.7,2.8,high,History
+2.7,2.8,medium,History
+2.7,2.8,low,History
+2.7,2.4,high,History
+2.7,2.5,medium,History
+2.7,2.5,high,History
+2.7,2.7,low,History
+2.7,2.7,high,History
+2.7,2.8,low,History
+2.7,2.9,high,History
+2.7,3,high,History
+2.7,3.1,high,History
+2.7,3.6,low,History
+2.7,3.7,medium,History
+2.7,3.7,high,History
+2.7,3.8,medium,History
+2.7,3.8,low,History
+2.7,3.8,medium,History
+2.7,3.3,low,History
+2.7,3.8,low,History
+2.8,1.7,high,History
+2.8,2.1,medium,History
+2.8,2.3,high,History
+2.8,2.4,medium,History
+2.8,2.5,high,History
+2.8,2.7,medium,History
+2.8,2.7,medium,History
+2.8,2.7,high,History
+2.8,2.7,low,History
+2.8,2.8,medium,History
+2.8,2.9,low,History
+2.8,2.9,high,History
+2.8,3,medium,History
+2.8,3.1,high,History
+2.8,3.2,high,History
+2.8,3.3,high,History
+2.8,3.5,high,History
+2.8,3.5,low,History
+2.8,3.6,medium,History
+2.8,3.6,low,History
+2.8,3.6,high,History
+2.8,3.8,medium,History
+2.8,3.8,low,History
+2.8,3.8,high,History
+2.9,3,medium,History
+2.9,3.2,high,History
+2.9,3.2,low,History
+2.9,2.6,low,History
+2.9,2.8,medium,History
+2.9,3.3,low,History
+2.9,3.6,high,History
+2.9,3.8,high,History
+2.9,3.8,medium,History
+3,2.5,medium,History
+3,2.5,low,History
+3,3.1,medium,History
+3,3.1,low,History
+3,3.2,medium,History
+3,3.5,high,History
+3,3.6,medium,History
+3,3.6,low,History
+3,3.3,medium,History
+3.1,1.6,medium,History
+3.1,1.7,high,History
+3.1,2.1,medium,History
+3.1,2.2,high,History
+3.1,2.2,low,History
+3.1,2.4,high,History
+3.1,2.4,high,History
+3.1,2.5,high,History
+3.1,2.6,low,History
+3.1,2.7,low,History
+3.1,2.9,medium,History
+3.1,2.9,medium,History
+3.1,2.9,medium,History
+3.1,3.1,low,History
+3.1,3.1,medium,History
+3.1,3.1,high,History
+3.1,3.2,medium,History
+3.1,3.2,medium,History
+3.1,3.2,low,History
+3.1,3.2,high,History
+3.1,3.3,medium,History
+3.1,3.4,low,History
+3.1,3.4,high,History
+3.1,3.5,low,History
+3.1,3.5,low,History
+3.1,3.5,low,History
+3.1,3.6,medium,History
+3.1,3.7,low,History
+3.1,3.7,medium,History
+3.1,3.7,low,History
+3.1,3.8,low,History
+3.1,3.8,low,History
+3.1,3.9,low,History
+3.2,2.3,high,History
+3.2,2.6,medium,History
+3.2,1.6,medium,History
+3.2,1.6,high,History
+3.2,2,high,History
+3.2,3,medium,History
+3.2,3,high,History
+3.2,2.1,high,History
+3.2,2.1,high,History
+3.2,2.2,low,History
+3.2,2.2,high,History
+3.2,2.4,high,History
+3.2,2.5,high,History
+3.2,2.5,high,History
+3.2,2.6,medium,History
+3.2,2.6,medium,History
+3.2,2.8,medium,History
+3.2,2.9,high,History
+3.2,2.9,high,History
+3.2,2.9,high,History
+3.2,3.1,medium,History
+3.2,3.1,low,History
+3.2,3.1,high,History
+3.2,3.2,high,History
+3.2,3.2,low,History
+3.2,3.4,medium,History
+3.2,3.5,medium,History
+3.2,3.7,high,History
+3.2,3.7,medium,History
+3.2,3.8,low,History
+3.2,3.1,medium,History
+3.2,4.1,high,History
+3.2,4.2,high,History
+3.3,1.8,medium,History
+3.3,2.4,medium,History
+3.3,2.4,medium,History
+3.3,2.6,medium,History
+3.3,2.6,medium,History
+3.3,2.7,high,History
+3.3,2.7,high,History
+3.3,3,high,History
+3.3,3.1,high,History
+3.3,3.1,medium,History
+3.3,3.1,medium,History
+3.3,3.2,high,History
+3.3,3.3,medium,History
+3.3,3.4,high,History
+3.3,3.4,low,History
+3.3,3.5,high,History
+3.3,3.5,medium,History
+3.3,3.5,medium,History
+3.3,3.6,low,History
+3.3,3.8,low,History
+3.3,4.1,medium,History
+3.3,4.1,medium,History
+3.3,3.1,low,History
+3.3,3.1,low,History
+3.3,4.1,high,History
+3.3,4.2,high,History
+3.3,4.3,medium,History
+3.4,2.2,high,History
+3.4,3.6,high,History
+3.4,3.7,high,History
+3.4,3.7,medium,History
+3.4,3.6,high,History
+3.4,3.6,high,History
+3.4,3.3,low,History
+3.4,4.3,low,History
+3.5,2.6,low,History
+3.5,2.6,medium,History
+3.5,2.6,high,History
+3.5,3.1,medium,History
+3.5,3.5,low,History
+3.5,3.6,high,History
+3.5,3.8,low,History
+3.5,3.9,high,History
+3.5,3.9,medium,History
+3.6,2.8,low,History
+3.6,2.8,high,History
+3.6,3.4,medium,History
+3.6,3.5,high,History
+3.7,3,low,History
+3.7,2.1,high,History
+3.7,2.5,low,History
+3.7,2.9,high,History
+3.7,2.9,low,History
+3.7,3.5,high,History
+3.8,2.5,medium,History
+3.8,3.5,medium,History
+3.8,3.1,high,History
+3.9,2.7,high,History
+3.9,3.3,low,History
+3.9,3.4,high,History
+3.9,3.6,high,History
+3.9,3.7,high,History
+4,2.6,high,History
+4,4,medium,History
+1,2.2,low,Visual arts
+1,1.6,low,Visual arts
+1,2.9,low,Visual arts
+1.1,2.9,low,Visual arts
+1.1,2.8,low,Visual arts
+1.2,2.5,low,Visual arts
+1.2,2.9,low,Visual arts
+1.2,2.9,low,Visual arts
+1.3,1.6,low,Visual arts
+1.3,2.4,low,Visual arts
+1.3,3.2,low,Visual arts
+1.4,1.5,low,Visual arts
+1.4,2.7,low,Visual arts
+1.4,2.5,low,Visual arts
+1.4,2.4,low,Visual arts
+1.5,1.8,medium,Visual arts
+1.5,2.5,medium,Visual arts
+1.5,2.5,medium,Visual arts
+1.5,2.5,low,Visual arts
+1.5,2.6,low,Visual arts
+1.5,2.6,medium,Visual arts
+1.5,2.6,low,Visual arts
+1.6,2.7,medium,Visual arts
+1.6,2.7,medium,Visual arts
+1.6,2.7,medium,Visual arts
+1.6,2.8,medium,Visual arts
+1.7,2,low,Visual arts
+1.7,2.2,medium,Visual arts
+1.7,1.3,low,Visual arts
+1.7,1.3,medium,Visual arts
+1.7,1.4,low,Visual arts
+1.7,1.5,medium,Visual arts
+1.7,2.7,low,Visual arts
+1.7,2.7,medium,Visual arts
+1.7,2.6,medium,Visual arts
+1.7,2.8,low,Visual arts
+1.8,1.3,low,Visual arts
+1.8,1.8,medium,Visual arts
+1.8,2.9,medium,Visual arts
+1.8,2.5,low,Visual arts
+1.8,2.6,medium,Visual arts
+1.8,3.4,medium,Visual arts
+1.9,1.5,low,Visual arts
+1.9,1.8,medium,Visual arts
+1.9,2.9,low,Visual arts
+1.9,2.5,low,Visual arts
+1.9,2.5,medium,Visual arts
+1.9,2.8,medium,Visual arts
+1.9,2.8,medium,Visual arts
+1.9,3.3,low,Visual arts
+1.9,3,medium,Visual arts
+2,2.3,high,Visual arts
+2,2.2,low,Visual arts
+2,1.4,high,Visual arts
+2,1.4,low,Visual arts
+2,1.5,low,Visual arts
+2,1.5,medium,Visual arts
+2,1.6,medium,Visual arts
+2,1.8,medium,Visual arts
+2,1.8,high,Visual arts
+2,2.9,high,Visual arts
+2,2.1,medium,Visual arts
+2,2.1,medium,Visual arts
+2,2.2,high,Visual arts
+2,2.3,medium,Visual arts
+2,2.4,high,Visual arts
+2,2.4,medium,Visual arts
+2,3.2,low,Visual arts
+2,3,medium,Visual arts
+2.1,2.3,high,Visual arts
+2.1,2.1,high,Visual arts
+2.1,1.6,low,Visual arts
+2.1,2.7,high,Visual arts
+2.1,1.8,low,Visual arts
+2.1,2.8,high,Visual arts
+2.1,3.2,medium,Visual arts
+2.1,3.4,low,Visual arts
+2.2,1.2,low,Visual arts
+2.2,1.4,high,Visual arts
+2.2,1.5,low,Visual arts
+2.2,2.9,medium,Visual arts
+2.2,1.9,high,Visual arts
+2.2,2.2,medium,Visual arts
+2.2,2.2,low,Visual arts
+2.2,2.5,high,Visual arts
+2.2,2.5,medium,Visual arts
+2.2,2.6,low,Visual arts
+2.2,2.6,low,Visual arts
+2.2,2.6,low,Visual arts
+2.2,2.7,medium,Visual arts
+2.2,3,high,Visual arts
+2.3,1.2,medium,Visual arts
+2.3,1.3,medium,Visual arts
+2.3,1.4,high,Visual arts
+2.3,1.4,medium,Visual arts
+2.3,1.5,high,Visual arts
+2.3,1.5,low,Visual arts
+2.3,1.7,high,Visual arts
+2.3,1.9,high,Visual arts
+2.3,2.5,high,Visual arts
+2.3,2.1,medium,Visual arts
+2.3,2.3,medium,Visual arts
+2.3,2.6,high,Visual arts
+2.3,2.8,high,Visual arts
+2.3,2.8,medium,Visual arts
+2.3,3.2,medium,Visual arts
+2.3,3.3,medium,Visual arts
+2.3,3.3,low,Visual arts
+2.4,1.5,medium,Visual arts
+2.4,2.5,high,Visual arts
+2.4,2.5,medium,Visual arts
+2.4,2.8,low,Visual arts
+2.4,2.8,high,Visual arts
+2.4,2.8,high,Visual arts
+2.4,2.8,medium,Visual arts
+2.4,3,medium,Visual arts
+2.4,3.1,high,Visual arts
+2.4,3.5,medium,Visual arts
+2.5,2,medium,Visual arts
+2.5,1.4,low,Visual arts
+2.5,1.5,medium,Visual arts
+2.5,1.5,high,Visual arts
+2.5,2.7,low,Visual arts
+2.5,1.7,high,Visual arts
+2.5,2.9,low,Visual arts
+2.5,2,high,Visual arts
+2.5,2.2,medium,Visual arts
+2.5,2.2,medium,Visual arts
+2.5,2.8,high,Visual arts
+2.5,3,medium,Visual arts
+2.5,3.2,medium,Visual arts
+2.5,3.3,high,Visual arts
+2.5,3.4,high,Visual arts
+2.5,3.7,medium,Visual arts
+2.5,3.5,medium,Visual arts
+2.6,1.4,low,Visual arts
+2.6,1.5,low,Visual arts
+2.6,1.7,high,Visual arts
+2.6,1.9,high,Visual arts
+2.6,2.3,low,Visual arts
+2.6,2.4,medium,Visual arts
+2.6,2.4,low,Visual arts
+2.6,2.4,high,Visual arts
+2.6,2.5,high,Visual arts
+2.6,2.5,high,Visual arts
+2.6,2.5,low,Visual arts
+2.6,2.6,high,Visual arts
+2.6,2.7,low,Visual arts
+2.6,2.7,high,Visual arts
+2.6,2.8,medium,Visual arts
+2.6,2.8,medium,Visual arts
+2.6,3,low,Visual arts
+2.6,3.1,low,Visual arts
+2.6,3.1,medium,Visual arts
+2.6,3.2,high,Visual arts
+2.6,3.2,medium,Visual arts
+2.6,3.2,medium,Visual arts
+2.6,3.2,medium,Visual arts
+2.6,3.6,medium,Visual arts
+2.6,3.3,medium,Visual arts
+2.6,3.8,low,Visual arts
+2.7,1.3,low,Visual arts
+2.7,1.4,low,Visual arts
+2.7,2.9,medium,Visual arts
+2.7,1.9,high,Visual arts
+2.7,2.2,low,Visual arts
+2.7,2.4,low,Visual arts
+2.7,2.7,high,Visual arts
+2.7,2.8,high,Visual arts
+2.7,3.1,high,Visual arts
+2.7,3.2,low,Visual arts
+2.7,3,medium,Visual arts
+2.7,3.9,high,Visual arts
+2.8,2,medium,Visual arts
+2.8,1.3,high,Visual arts
+2.8,1.4,high,Visual arts
+2.8,1.5,high,Visual arts
+2.8,1.5,high,Visual arts
+2.8,1.6,high,Visual arts
+2.8,1.6,high,Visual arts
+2.8,1.7,high,Visual arts
+2.8,2.9,medium,Visual arts
+2.8,2.2,high,Visual arts
+2.8,2.2,medium,Visual arts
+2.8,2.3,high,Visual arts
+2.8,2.4,medium,Visual arts
+2.8,2.6,high,Visual arts
+2.8,2.6,high,Visual arts
+2.8,2.6,medium,Visual arts
+2.8,2.8,medium,Visual arts
+2.8,3,low,Visual arts
+2.8,3,medium,Visual arts
+2.8,3,high,Visual arts
+2.8,3.1,low,Visual arts
+2.8,3.1,medium,Visual arts
+2.8,3.1,high,Visual arts
+2.8,3.2,low,Visual arts
+2.8,3.3,low,Visual arts
+2.8,3.3,high,Visual arts
+2.8,3.4,low,Visual arts
+2.8,3.6,low,Visual arts
+2.8,3.6,high,Visual arts
+2.9,2.7,low,Visual arts
+2.9,2.7,high,Visual arts
+2.9,1.8,medium,Visual arts
+2.9,2.1,low,Visual arts
+2.9,2.2,high,Visual arts
+2.9,2.3,low,Visual arts
+2.9,2.3,medium,Visual arts
+2.9,2.4,low,Visual arts
+2.9,2.4,high,Visual arts
+2.9,2.5,medium,Visual arts
+2.9,2.5,low,Visual arts
+2.9,2.5,low,Visual arts
+2.9,2.6,high,Visual arts
+2.9,2.8,low,Visual arts
+2.9,2.8,high,Visual arts
+2.9,2.8,high,Visual arts
+2.9,2.9,high,Visual arts
+2.9,3,high,Visual arts
+2.9,3,medium,Visual arts
+2.9,3.1,low,Visual arts
+2.9,3.1,high,Visual arts
+2.9,3.2,medium,Visual arts
+2.9,3.3,low,Visual arts
+2.9,3.3,high,Visual arts
+2.9,3.4,medium,Visual arts
+2.9,3.4,medium,Visual arts
+2.9,3.5,low,Visual arts
+2.9,3.6,low,Visual arts
+2.9,3.5,medium,Visual arts
+2.9,3.9,medium,Visual arts
+2.9,4,medium,Visual arts
+3,1.7,high,Visual arts
+3,2.5,high,Visual arts
+3,2.6,high,Visual arts
+3,2.8,low,Visual arts
+3,2.8,high,Visual arts
+3,3,high,Visual arts
+3,3,low,Visual arts
+3,3,low,Visual arts
+3,3.4,low,Visual arts
+3,3.5,high,Visual arts
+3,3.5,high,Visual arts
+3,3.5,high,Visual arts
+3,3.6,medium,Visual arts
+3,3.6,high,Visual arts
+3,3.7,high,Visual arts
+3.1,2,medium,Visual arts
+3.1,2.3,high,Visual arts
+3.1,2.3,low,Visual arts
+3.1,2.6,high,Visual arts
+3.1,3.1,high,Visual arts
+3.1,3.8,high,Visual arts
+3.1,4,low,Visual arts
+3.2,1.3,high,Visual arts
+3.2,1.5,medium,Visual arts
+3.2,1.9,medium,Visual arts
+3.2,1.9,high,Visual arts
+3.2,2.3,high,Visual arts
+3.2,2.3,low,Visual arts
+3.2,2.5,low,Visual arts
+3.2,2.6,low,Visual arts
+3.2,2.6,medium,Visual arts
+3.2,2.7,low,Visual arts
+3.2,2.9,high,Visual arts
+3.2,3.3,high,Visual arts
+3.2,3.3,high,Visual arts
+3.2,3.5,medium,Visual arts
+3.2,3.6,low,Visual arts
+3.2,2.8,medium,Visual arts
+3.2,3.9,low,Visual arts
+3.3,1.3,medium,Visual arts
+3.3,2.5,high,Visual arts
+3.3,2.9,low,Visual arts
+3.3,3.2,low,Visual arts
+3.3,3.6,medium,Visual arts
+3.4,2.4,high,Visual arts
+3.4,3.4,medium,Visual arts
+3.5,3.3,medium,Visual arts
+3.5,3.4,low,Visual arts
+3.5,3.5,low,Visual arts
+3.5,2.8,medium,Visual arts
+3.6,2.5,high,Visual arts
+3.6,2.9,high,Visual arts
+3.6,3,medium,Visual arts
+3.6,3,high,Visual arts
+3.6,3.4,low,Visual arts
+3.6,3.7,high,Visual arts
+3.7,2.2,low,Visual arts
+3.7,2.3,low,Visual arts
+3.7,2.3,high,Visual arts
+3.7,3.1,high,Visual arts
+3.7,3.3,medium,Visual arts
+3.7,3.7,medium,Visual arts
+3.8,2.5,low,Visual arts
+3.8,2.8,high,Visual arts
+3.8,3.8,medium,Visual arts
+3.9,3.3,high,Visual arts
+4,3.4,low,Visual arts
