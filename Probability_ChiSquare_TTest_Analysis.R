@@ -32,7 +32,7 @@ cat("Part (c) Probability:", prob_c, "\n")
 
 # 2.
 # Read the dataset for chi-square test
-data <- read.csv("C:/Users/navee/Documents/STAM 200/Quiz3_DataSet2_15.csv")
+data <- read.csv("C:/Users/navee/Documents/STAM 200/Sex_Sugar_Consumption_Data.csv")
 
 # Create a contingency table of Sex and Sugar consumption
 table_data <- table(data$Sex, data$Sugar)
@@ -76,7 +76,7 @@ if(p_value < alpha) {
 
 # 3.
 # Read the dataset for two-sample t-test
-data <- read.csv("C:/Users/navee/Documents/STAM 200/Quiz3_DataSet1_2.csv")
+data <- read.csv("C:/Users/navee/Documents/STAM 200/Generation_Sugar_Consumption_Data.csv")
 
 # Print the first few rows of the data to understand its structure
 print(head(data))
