@@ -1,0 +1,506 @@
+location,period,quintile,fertility
+Ghana,1990-2005,Q1 (Poorest),7
+Philippines,1990-2005,Q1 (Poorest),6.6
+Kenya,1990-2005,Q2,6.58
+Kenya,1990-2005,Q3,5.79
+Kenya,1990-2005,Q4,5.59
+Ghana,1990-2005,Q4,4.91
+Bangladesh,1990-2005,Q2,4.53
+Kenya,1990-2005,Q5 (Richest),3.54
+Bangladesh,1990-2005,Q4,3.53
+Ghana,1990-2005,Q5 (Richest),3.5
+Philippines,1990-2005,Q5 (Richest),2.25
+Turkey,1990-2005,Q4,2.12
+Bolivia (Plurinational State of),1990-2005,Q2,6.89
+Côte d’Ivoire,1990-2005,Q1 (Poorest),6.87
+Côte d’Ivoire,1990-2005,Q2,6.71
+Haiti,1990-2005,Q3,5.7
+Central African Republic,1990-2005,Q1 (Poorest),5.5
+Central African Republic,1990-2005,Q2,5.42
+Bolivia (Plurinational State of),1990-2005,Q3,5.28
+Central African Republic,1990-2005,Q3,5.2
+Zimbabwe,1990-2005,Q2,5.18
+Côte d’Ivoire,1990-2005,Q4,5.18
+Central African Republic,1990-2005,Q5 (Richest),5.07
+Côte d’Ivoire,1990-2005,Q5 (Richest),4.07
+Bolivia (Plurinational State of),1990-2005,Q4,3.88
+Mali,1990-2005,Q2,7.52
+Mali,1990-2005,Q1 (Poorest),7.42
+Uganda,1990-2005,Q1 (Poorest),7.37
+Uganda,1990-2005,Q2,7.03
+Guatemala,1990-2005,Q3,5.5
+Mali,1990-2005,Q5 (Richest),5.48
+Colombia,1990-2005,Q1 (Poorest),5.42
+Egypt,1990-2005,Q3,3.68
+Kazakhstan,1990-2005,Q1 (Poorest),3.59
+Kazakhstan,1990-2005,Q2,2.95
+Guatemala,1990-2005,Q5 (Richest),2.58
+Benin,1990-2005,Q1 (Poorest),7.71
+Comoros,1990-2005,Q1 (Poorest),7.3
+Zambia,1990-2005,Q1 (Poorest),7.28
+Benin,1990-2005,Q2,7.12
+Zambia,1990-2005,Q3,6.27
+Zambia,1990-2005,Q4,5.89
+United Republic of Tanzania,1990-2005,Q4,5.57
+Dominican Republic,1990-2005,Q1 (Poorest),5.27
+Uzbekistan,1990-2005,Q1 (Poorest),4.97
+Peru,1990-2005,Q2,4.92
+Comoros,1990-2005,Q3,4.85
+Brazil,1990-2005,Q1 (Poorest),4.78
+Zambia,1990-2005,Q5 (Richest),4.59
+Comoros,1990-2005,Q4,4.21
+Uzbekistan,1990-2005,Q2,4.14
+Dominican Republic,1990-2005,Q2,3.73
+Peru,1990-2005,Q3,3.61
+Uzbekistan,1990-2005,Q3,3.37
+Brazil,1990-2005,Q2,2.86
+Dominican Republic,1990-2005,Q4,2.56
+Uzbekistan,1990-2005,Q5 (Richest),2.43
+Brazil,1990-2005,Q3,2.17
+Dominican Republic,1990-2005,Q5 (Richest),2.08
+Brazil,1990-2005,Q4,1.94
+Peru,1990-2005,Q5 (Richest),1.86
+Senegal,1990-2005,Q1 (Poorest),7.42
+Mozambique,1990-2005,Q4,6.05
+Mozambique,1990-2005,Q1 (Poorest),5.93
+Madagascar,1990-2005,Q4,5.77
+Senegal,1990-2005,Q4,5.64
+Jordan,1990-2005,Q2,5.43
+Nicaragua,1990-2005,Q2,4.94
+Mozambique,1990-2005,Q5 (Richest),4.77
+Viet Nam,1990-2005,Q2,3.1
+Nicaragua,1990-2005,Q4,2.87
+Viet Nam,1990-2005,Q4,2.06
+Viet Nam,1990-2005,Q5 (Richest),1.63
+Niger,1990-2005,Q3,7.88
+Niger,1990-2005,Q4,7.55
+Niger,1990-2005,Q2,7.53
+Côte d’Ivoire,1990-2005,Q1 (Poorest),7.22
+Guatemala,1990-2005,Q2,6.79
+Philippines,1990-2005,Q1 (Poorest),6.57
+Cameroon,1990-2005,Q2,6.05
+Côte d’Ivoire,1990-2005,Q3,5.63
+Ghana,1990-2005,Q2,5.49
+Côte d’Ivoire,1990-2005,Q2,5.4
+Kenya,1990-2005,Q3,4.75
+Cameroon,1990-2005,Q4,4.5
+Kenya,1990-2005,Q4,4.23
+Ghana,1990-2005,Q4,3.89
+Philippines,1990-2005,Q3,3.66
+India,1990-2005,Q2,3.57
+Togo,1990-2005,Q5 (Richest),3.01
+India,1990-2005,Q3,2.99
+Turkey,1990-2005,Q3,2.69
+Bolivia (Plurinational State of),1990-2005,Q5 (Richest),2.15
+Turkey,1990-2005,Q4,2.1
+Guinea,1990-2005,Q3,6.73
+United Republic of Tanzania,1990-2005,Q4,5.12
+Zimbabwe,1990-2005,Q2,4.68
+Bangladesh,1990-2005,Q2,3.93
+Zimbabwe,1990-2005,Q4,3.87
+Dominican Republic,1990-2005,Q2,3.47
+United Republic of Tanzania,1990-2005,Q5 (Richest),3.44
+Kazakhstan,1990-2005,Q1 (Poorest),3.34
+Dominican Republic,1990-2005,Q3,3.05
+Bangladesh,1990-2005,Q4,2.93
+Dominican Republic,1990-2005,Q4,2.57
+Bangladesh,1990-2005,Q5 (Richest),2.31
+Kazakhstan,1990-2005,Q3,2.19
+Dominican Republic,1990-2005,Q5 (Richest),1.96
+Kazakhstan,1990-2005,Q5 (Richest),1.23
+Uganda,1990-2005,Q1 (Poorest),8.35
+Uganda,1990-2005,Q3,7.79
+Malawi,1990-2005,Q1 (Poorest),6.96
+Haiti,1990-2005,Q1 (Poorest),6.78
+Uganda,1990-2005,Q4,6.51
+Rwanda,1990-2005,Q3,6.5
+Ethiopia,1990-2005,Q3,6.3
+Ethiopia,1990-2005,Q4,6.16
+Haiti,1990-2005,Q2,6.13
+Rwanda,1990-2005,Q5 (Richest),5.56
+Namibia,1990-2005,Q2,5.51
+Haiti,1990-2005,Q3,5.01
+Malawi,1990-2005,Q5 (Richest),4.86
+Cambodia,1990-2005,Q2,4.66
+Namibia,1990-2005,Q3,4.43
+Colombia,1990-2005,Q1 (Poorest),4.33
+Uganda,1990-2005,Q5 (Richest),4.29
+Peru,1990-2005,Q2,4.05
+Ethiopia,1990-2005,Q5 (Richest),3.8
+Egypt,1990-2005,Q2,3.6
+Peru,1990-2005,Q3,2.74
+Haiti,1990-2005,Q5 (Richest),2.61
+Armenia,1990-2005,Q1 (Poorest),2.55
+Colombia,1990-2005,Q3,2.54
+Peru,1990-2005,Q4,2.17
+Colombia,1990-2005,Q4,1.94
+Colombia,1990-2005,Q5 (Richest),1.78
+Peru,1990-2005,Q5 (Richest),1.64
+Benin,1990-2005,Q1 (Poorest),7.34
+Mali,1990-2005,Q3,7.33
+Zambia,1990-2005,Q2,7.04
+Benin,1990-2005,Q3,6.75
+Nicaragua,1990-2005,Q1 (Poorest),6.05
+Mali,1990-2005,Q5 (Richest),5.31
+Zambia,1990-2005,Q4,5.18
+Zambia,1990-2005,Q5 (Richest),3.75
+Jordan,1990-2005,Q1 (Poorest),4.76
+Jordan,1990-2005,Q2,4.5
+Dominican Republic,1990-2005,Q1 (Poorest),4.41
+Dominican Republic,1990-2005,Q2,3.48
+Indonesia,1990-2005,Q1 (Poorest),3.12
+Jordan,1990-2005,Q4,3.12
+Indonesia,1990-2005,Q2,2.67
+Indonesia,1990-2005,Q3,2.64
+Viet Nam,1990-2005,Q1 (Poorest),2.51
+Jordan,1990-2005,Q5 (Richest),2.45
+Viet Nam,1990-2005,Q2,2.1
+Dominican Republic,1990-2005,Q5 (Richest),2.06
+Viet Nam,1990-2005,Q3,1.86
+Kenya,1990-2005,Q1 (Poorest),7.68
+Bolivia (Plurinational State of),1990-2005,Q1 (Poorest),7.14
+Burkina Faso,1990-2005,Q2,7.09
+Madagascar,1990-2005,Q1 (Poorest),7.01
+Burkina Faso,1990-2005,Q3,6.79
+Mozambique,1990-2005,Q1 (Poorest),6.36
+Mozambique,1990-2005,Q2,6.18
+Ghana,1990-2005,Q2,6.07
+Madagascar,1990-2005,Q3,5.81
+Nigeria,1990-2005,Q4,5.76
+Kenya,1990-2005,Q3,5.21
+Ghana,1990-2005,Q3,4.91
+Philippines,1990-2005,Q2,4.56
+Bolivia (Plurinational State of),1990-2005,Q3,4.28
+Kenya,1990-2005,Q4,4.14
+Morocco,1990-2005,Q2,3.23
+Kenya,1990-2005,Q5 (Richest),3.12
+Bolivia (Plurinational State of),1990-2005,Q4,3.09
+Ghana,1990-2005,Q5 (Richest),2.72
+Morocco,1990-2005,Q3,2.53
+Philippines,1990-2005,Q5 (Richest),2.17
+United Republic of Tanzania,1990-2005,Q1 (Poorest),7.44
+Chad,1990-2005,Q4,7.24
+United Republic of Tanzania,1990-2005,Q3,6.41
+Cameroon,1990-2005,Q2,6.21
+Chad,1990-2005,Q5 (Richest),6.16
+United Republic of Tanzania,1990-2005,Q4,5.42
+Peru,1990-2005,Q1 (Poorest),5.15
+Cameroon,1990-2005,Q4,4.47
+Lesotho,1990-2005,Q3,3.68
+United Republic of Tanzania,1990-2005,Q5 (Richest),3.29
+Bangladesh,1990-2005,Q3,3.24
+Bangladesh,1990-2005,Q4,2.7
+Senegal,1990-2005,Q1 (Poorest),7.01
+Ethiopia,1990-2005,Q1 (Poorest),6.92
+Haiti,1990-2005,Q1 (Poorest),6.49
+Ethiopia,1990-2005,Q3,6.44
+Ethiopia,1990-2005,Q2,6.27
+Honduras,1990-2005,Q1 (Poorest),5.78
+Zimbabwe,1990-2005,Q1 (Poorest),5.64
+Congo,1990-2005,Q2,5.64
+Haiti,1990-2005,Q2,5.09
+Zimbabwe,1990-2005,Q2,4.85
+Cambodia,1990-2005,Q1 (Poorest),4.82
+Haiti,1990-2005,Q3,4.44
+Colombia,1990-2005,Q1 (Poorest),4.1
+Honduras,1990-2005,Q2,4.1
+Egypt,1990-2005,Q1 (Poorest),3.74
+Honduras,1990-2005,Q3,3.39
+India,1990-2005,Q2,3.3
+Senegal,1990-2005,Q5 (Richest),3.26
+Zimbabwe,1990-2005,Q4,3.23
+Colombia,1990-2005,Q2,2.97
+Colombia,1990-2005,Q3,2.45
+Zimbabwe,1990-2005,Q5 (Richest),2.4
+India,1990-2005,Q4,2.31
+Haiti,1990-2005,Q5 (Richest),2.1
+Armenia,1990-2005,Q5 (Richest),1.5
+Peru,1990-2005,Q5 (Richest),1.49
+Colombia,1990-2005,Q5 (Richest),1.43
+Republic of Moldova,1990-2005,Q4,1.43
+Republic of Moldova,1990-2005,Q5 (Richest),1.26
+Niger,2006-2019,Q1 (Poorest),7.95
+Benin,2006-2019,Q1 (Poorest),7.27
+Niger,2006-2019,Q4,7.24
+Mali,2006-2019,Q4,6.71
+Benin,2006-2019,Q2,6.58
+Niger,2006-2019,Q5 (Richest),6.22
+Pakistan,2006-2019,Q1 (Poorest),5.98
+Eswatini,2006-2019,Q1 (Poorest),5.29
+Benin,2006-2019,Q4,5.28
+Nepal,2006-2019,Q1 (Poorest),5
+Namibia,2006-2019,Q2,4.28
+Namibia,2006-2019,Q3,3.98
+Nepal,2006-2019,Q2,3.81
+Pakistan,2006-2019,Q4,3.6
+Eswatini,2006-2019,Q4,3.34
+Namibia,2006-2019,Q4,2.89
+Eswatini,2006-2019,Q5 (Richest),2.78
+Nepal,2006-2019,Q4,2.75
+Peru,2006-2019,Q3,2.64
+Azerbaijan,2006-2019,Q1 (Poorest),2.4
+Namibia,2006-2019,Q5 (Richest),2.34
+Azerbaijan,2006-2019,Q2,2.29
+Peru,2006-2019,Q4,2.06
+Azerbaijan,2006-2019,Q5 (Richest),1.49
+Zambia,2006-2019,Q1 (Poorest),8.26
+Zambia,2006-2019,Q2,7.42
+Democratic Republic of the Congo,2006-2019,Q2,7.03
+Liberia,2006-2019,Q3,6.11
+Peru,2006-2019,Q1 (Poorest),5.4
+Liberia,2006-2019,Q4,4.78
+Democratic Republic of the Congo,2006-2019,Q5 (Richest),4.37
+Jordan,2006-2019,Q2,4.34
+Jordan,2006-2019,Q3,3.8
+Bangladesh,2006-2019,Q2,3.2
+Dominican Republic,2006-2019,Q2,3.04
+Jordan,2006-2019,Q5 (Richest),2.61
+Indonesia,2006-2019,Q3,2.6
+Indonesia,2006-2019,Q5 (Richest),2.59
+Indonesia,2006-2019,Q2,2.54
+Dominican Republic,2006-2019,Q3,2.49
+Indonesia,2006-2019,Q4,2.49
+Bangladesh,2006-2019,Q5 (Richest),2.22
+Peru,2006-2019,Q4,2.04
+Dominican Republic,2006-2019,Q5 (Richest),1.73
+Peru,2006-2019,Q5 (Richest),1.5
+Ukraine,2006-2019,Q2,1.37
+Madagascar,2006-2019,Q1 (Poorest),6.96
+Sierra Leone,2006-2019,Q1 (Poorest),6.21
+Sao Tome and Principe,2006-2019,Q1 (Poorest),5.89
+Sierra Leone,2006-2019,Q3,5.74
+Sao Tome and Principe,2006-2019,Q3,5.6
+Ghana,2006-2019,Q2,5.12
+Nigeria,2006-2019,Q4,5.05
+Kenya,2006-2019,Q3,4.89
+Sierra Leone,2006-2019,Q4,4.8
+Madagascar,2006-2019,Q4,4.6
+Sao Tome and Principe,2006-2019,Q4,4.32
+Philippines,2006-2019,Q2,4.25
+Nigeria,2006-2019,Q5 (Richest),4.05
+Ghana,2006-2019,Q3,3.94
+Sao Tome and Principe,2006-2019,Q5 (Richest),3.69
+Egypt,2006-2019,Q1 (Poorest),3.5
+Ghana,2006-2019,Q4,3.45
+Philippines,2006-2019,Q3,3.28
+Egypt,2006-2019,Q2,3
+Egypt,2006-2019,Q5 (Richest),2.63
+Peru,2006-2019,Q4,2.19
+Albania,2006-2019,Q4,1.63
+Albania,2006-2019,Q5 (Richest),1.3
+Timor-Leste,2006-2019,Q1 (Poorest),7.21
+Lesotho,2006-2019,Q1 (Poorest),5.76
+Timor-Leste,2006-2019,Q4,5.5
+Guyana,2006-2019,Q1 (Poorest),4.82
+Timor-Leste,2006-2019,Q5 (Richest),4.42
+Lesotho,2006-2019,Q2,4.21
+Guyana,2006-2019,Q2,2.86
+Maldives,2006-2019,Q2,2.78
+Peru,2006-2019,Q3,2.54
+Maldives,2006-2019,Q4,2.32
+Lesotho,2006-2019,Q5 (Richest),1.93
+Peru,2006-2019,Q5 (Richest),1.7
+Burkina Faso,2006-2019,Q1 (Poorest),7.33
+Burkina Faso,2006-2019,Q2,7.07
+United Republic of Tanzania,2006-2019,Q1 (Poorest),7.02
+Burundi,2006-2019,Q2,6.87
+Malawi,2006-2019,Q3,6.31
+United Republic of Tanzania,2006-2019,Q3,6.22
+Burundi,2006-2019,Q1 (Poorest),6.2
+Senegal,2006-2019,Q2,6.12
+Burundi,2006-2019,Q5 (Richest),5.83
+Senegal,2006-2019,Q3,5.1
+United Republic of Tanzania,2006-2019,Q4,4.86
+Cambodia,2006-2019,Q1 (Poorest),4.38
+Zimbabwe,2006-2019,Q3,4.09
+Cambodia,2006-2019,Q2,3.51
+Senegal,2006-2019,Q5 (Richest),3.44
+Peru,2006-2019,Q2,3.23
+United Republic of Tanzania,2006-2019,Q5 (Richest),3.19
+Cambodia,2006-2019,Q3,2.95
+Cambodia,2006-2019,Q4,2.71
+Zimbabwe,2006-2019,Q5 (Richest),2.46
+Colombia,2006-2019,Q3,2.17
+Peru,2006-2019,Q4,2.05
+Armenia,2006-2019,Q1 (Poorest),1.71
+Armenia,2006-2019,Q2,1.71
+Armenia,2006-2019,Q4,1.66
+Mozambique,2006-2019,Q1 (Poorest),7.41
+Congo,2006-2019,Q1 (Poorest),7.02
+Côte d’Ivoire,2006-2019,Q1 (Poorest),6.75
+Ethiopia,2006-2019,Q1 (Poorest),6.51
+Mozambique,2006-2019,Q3,6.21
+Ethiopia,2006-2019,Q2,6.08
+Côte d’Ivoire,2006-2019,Q2,5.89
+Benin,2006-2019,Q3,5.31
+Benin,2006-2019,Q4,4.68
+Congo,2006-2019,Q3,4.61
+Peru,2006-2019,Q1 (Poorest),4.26
+Benin,2006-2019,Q5 (Richest),3.9
+Congo,2006-2019,Q5 (Richest),3.7
+Bangladesh,2006-2019,Q1 (Poorest),3.43
+Cameroon,2006-2019,Q5 (Richest),3.22
+Côte d’Ivoire,2006-2019,Q5 (Richest),3.1
+Ethiopia,2006-2019,Q5 (Richest),3.02
+Peru,2006-2019,Q2,3
+Bangladesh,2006-2019,Q2,2.76
+Peru,2006-2019,Q3,2.64
+Honduras,2006-2019,Q4,2.47
+Peru,2006-2019,Q5 (Richest),1.61
+Nepal,2006-2019,Q5 (Richest),1.53
+Niger,2006-2019,Q2,8.21
+Niger,2006-2019,Q3,8.19
+Senegal,2006-2019,Q1 (Poorest),7.77
+Mali,2006-2019,Q1 (Poorest),7.15
+Mali,2006-2019,Q2,7.05
+Guinea,2006-2019,Q1 (Poorest),6.62
+Senegal,2006-2019,Q2,6.54
+Niger,2006-2019,Q5 (Richest),6.13
+Guinea,2006-2019,Q3,5.78
+Haiti,2006-2019,Q1 (Poorest),5.7
+Guinea,2006-2019,Q4,5.08
+Pakistan,2006-2019,Q2,4.66
+Jordan,2006-2019,Q2,4.02
+Kyrgyzstan,2006-2019,Q2,4.01
+Tajikistan,2006-2019,Q1 (Poorest),3.99
+Tajikistan,2006-2019,Q2,3.86
+Senegal,2006-2019,Q5 (Richest),3.75
+Comoros,2006-2019,Q4,3.7
+Tajikistan,2006-2019,Q3,3.68
+Comoros,2006-2019,Q5 (Richest),3.19
+Haiti,2006-2019,Q4,3.03
+Gabon,2006-2019,Q5 (Richest),3.01
+Kyrgyzstan,2006-2019,Q5 (Richest),2.56
+Peru,2006-2019,Q3,2.52
+Indonesia,2006-2019,Q4,2.35
+Indonesia,2006-2019,Q5 (Richest),2.23
+Peru,2006-2019,Q4,2.06
+Peru,2006-2019,Q5 (Richest),1.64
+Democratic Republic of the Congo,2006-2019,Q2,7.62
+Zambia,2006-2019,Q1 (Poorest),7.54
+Nigeria,2006-2019,Q1 (Poorest),7.31
+Democratic Republic of the Congo,2006-2019,Q3,7.29
+Zambia,2006-2019,Q2,7.2
+Gambia,2006-2019,Q2,6.68
+Democratic Republic of the Congo,2006-2019,Q4,6.59
+Gambia,2006-2019,Q1 (Poorest),6.45
+Sierra Leone,2006-2019,Q1 (Poorest),6.35
+Zambia,2006-2019,Q3,6.2
+Yemen,2006-2019,Q1 (Poorest),6.19
+Gambia,2006-2019,Q3,5.94
+Sierra Leone,2006-2019,Q2,5.94
+Sierra Leone,2006-2019,Q3,5.69
+Togo,2006-2019,Q3,5.26
+Zambia,2006-2019,Q4,4.46
+Peru,2006-2019,Q1 (Poorest),3.94
+Philippines,2006-2019,Q2,3.93
+Togo,2006-2019,Q4,3.91
+Nigeria,2006-2019,Q5 (Richest),3.89
+Zambia,2006-2019,Q5 (Richest),3.26
+Sierra Leone,2006-2019,Q5 (Richest),3.15
+Yemen,2006-2019,Q5 (Richest),3.14
+Liberia,2006-2019,Q5 (Richest),2.73
+Dominican Republic,2006-2019,Q2,2.69
+Dominican Republic,2006-2019,Q3,2.57
+Peru,2006-2019,Q3,2.43
+Namibia,2006-2019,Q5 (Richest),2.3
+Peru,2006-2019,Q5 (Richest),1.68
+Senegal,2006-2019,Q1 (Poorest),7.6
+Chad,2006-2019,Q1 (Poorest),7.49
+Ghana,2006-2019,Q2,5.44
+Rwanda,2006-2019,Q1 (Poorest),4.95
+Rwanda,2006-2019,Q2,4.5
+Rwanda,2006-2019,Q3,4.2
+Ghana,2006-2019,Q3,3.9
+Egypt,2006-2019,Q1 (Poorest),3.61
+Egypt,2006-2019,Q4,3.37
+Kenya,2006-2019,Q4,3.23
+Guatemala,2006-2019,Q3,3.19
+Senegal,2006-2019,Q5 (Richest),3.18
+Rwanda,2006-2019,Q5 (Richest),3.15
+Peru,2006-2019,Q2,2.97
+Kenya,2006-2019,Q5 (Richest),2.8
+Cambodia,2006-2019,Q3,2.69
+Guatemala,2006-2019,Q4,2.55
+Bangladesh,2006-2019,Q2,2.43
+Peru,2006-2019,Q3,2.42
+Cambodia,2006-2019,Q5 (Richest),2.13
+Bangladesh,2006-2019,Q4,2.1
+Guatemala,2006-2019,Q5 (Richest),1.97
+Angola,2006-2019,Q1 (Poorest),8.59
+Angola,2006-2019,Q2,8.23
+Angola,2006-2019,Q3,6.88
+United Republic of Tanzania,2006-2019,Q2,6.44
+United Republic of Tanzania,2006-2019,Q3,5.72
+Afghanistan,2006-2019,Q4,5.52
+Senegal,2006-2019,Q3,5.28
+Malawi,2006-2019,Q3,4.93
+Mozambique,2006-2019,Q4,4.72
+Afghanistan,2006-2019,Q5 (Richest),4.6
+Malawi,2006-2019,Q4,4.32
+Senegal,2006-2019,Q4,4.11
+Zimbabwe,2006-2019,Q4,3.96
+Mozambique,2006-2019,Q5 (Richest),3.28
+Senegal,2006-2019,Q5 (Richest),3.15
+United Republic of Tanzania,2006-2019,Q5 (Richest),3.14
+Malawi,2006-2019,Q5 (Richest),3.03
+Peru,2006-2019,Q2,2.88
+India,2006-2019,Q3,2.11
+Peru,2006-2019,Q5 (Richest),2.09
+India,2006-2019,Q4,1.88
+Armenia,2006-2019,Q5 (Richest),1.78
+India,2006-2019,Q5 (Richest),1.57
+Senegal,2006-2019,Q1 (Poorest),7.33
+Uganda,2006-2019,Q1 (Poorest),7.23
+Ethiopia,2006-2019,Q1 (Poorest),6.6
+Uganda,2006-2019,Q2,6.57
+Burundi,2006-2019,Q1 (Poorest),6.23
+Ethiopia,2006-2019,Q2,6.02
+Burundi,2006-2019,Q4,5.89
+Burundi,2006-2019,Q3,5.72
+Ethiopia,2006-2019,Q3,5.18
+Uganda,2006-2019,Q4,5.12
+Timor-Leste,2006-2019,Q2,4.8
+Ethiopia,2006-2019,Q4,4.6
+Burundi,2006-2019,Q5 (Richest),4.59
+Timor-Leste,2006-2019,Q4,4.05
+Senegal,2006-2019,Q4,3.73
+Peru,2006-2019,Q1 (Poorest),3.49
+Haiti,2006-2019,Q3,3.36
+Nepal,2006-2019,Q2,2.67
+Maldives,2006-2019,Q1 (Poorest),2.59
+Peru,2006-2019,Q3,2.55
+Maldives,2006-2019,Q3,2.41
+Haiti,2006-2019,Q4,2.4
+Nepal,2006-2019,Q4,2.23
+Peru,2006-2019,Q4,2.1
+South Africa,2006-2019,Q5 (Richest),2.09
+Maldives,2006-2019,Q4,2
+Haiti,2006-2019,Q5 (Richest),1.67
+Maldives,2006-2019,Q5 (Richest),1.66
+Benin,2006-2019,Q3,6.18
+Pakistan,2006-2019,Q1 (Poorest),5.3
+Senegal,2006-2019,Q3,4.99
+Philippines,2006-2019,Q1 (Poorest),4.55
+Benin,2006-2019,Q5 (Richest),4.31
+Jordan,2006-2019,Q1 (Poorest),4.05
+Pakistan,2006-2019,Q2,3.96
+Tajikistan,2006-2019,Q3,3.89
+Senegal,2006-2019,Q4,3.84
+Pakistan,2006-2019,Q3,3.8
+Philippines,2006-2019,Q2,3.42
+Peru,2006-2019,Q1 (Poorest),3.41
+Jordan,2006-2019,Q2,3.36
+Tajikistan,2006-2019,Q5 (Richest),3.19
+Senegal,2006-2019,Q5 (Richest),3
+Indonesia,2006-2019,Q1 (Poorest),2.99
+Pakistan,2006-2019,Q5 (Richest),2.81
+Indonesia,2006-2019,Q2,2.56
+Indonesia,2006-2019,Q3,2.38
+Peru,2006-2019,Q3,2.26
+Philippines,2006-2019,Q4,2.15
+Albania,2006-2019,Q1 (Poorest),2.1
+Peru,2006-2019,Q5 (Richest),1.67
+Jordan,2006-2019,Q5 (Richest),1.54
+Peru,2006-2019,Q2,2.4
+Peru,2006-2019,Q3,2.01
