@@ -2,7 +2,7 @@
 setwd("C:/Users/navee/Documents/STAM 200")
 
 # Read the CSV file
-data <- read.csv("Quiz1_DataSet2_9.csv")
+data <- read.csv("Happiness_Data.csv")
 
 # Calculate the IQR for the Happiness column
 happiness_IQR <- IQR(data$Happiness)
@@ -44,7 +44,7 @@ min_value
 setwd("C:/Users/navee/Documents/STAM 200")
 
 # Import the CSV file
-data <- read.csv("Quiz1_DataSet1_1.csv")
+data <- read.csv("Sleep_Study_Data.csv")
 
 # Calculate the mean number of hours of sleep for all students
 mean_sleep_all <- mean(data$HoursSleep)
