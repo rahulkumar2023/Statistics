@@ -2,7 +2,7 @@
 setwd("C:/Users/navee/Documents/STAM 200")
 
 # Read the CSV file into a data frame without specifying column classes
-MyData = read.csv("week03_sample_data.csv")
+MyData = read.csv("chickweight_data.csv")
 
 # Display the first few rows of the data frame
 head(MyData)
@@ -11,7 +11,7 @@ head(MyData)
 str(MyData)
 
 # Read the CSV file again, this time specifying column classes
-MyData = read.csv("week03_sample_data.csv", colClasses = c('factor', 'factor', 'numeric', 'numeric'))
+MyData = read.csv("chickweight_data.csv", colClasses = c('factor', 'factor', 'numeric', 'numeric'))
 
 # Display the structure of the data frame to confirm column classes
 str(MyData)
