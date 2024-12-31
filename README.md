@@ -1,5 +1,3 @@
----
-
 # Statistics Repository
 
 This repository contains a collection of statistical analyses, R scripts, and datasets for exploring various real-world topics. Each script corresponds to a dataset and performs a unique analysis, such as calculating confidence intervals, analyzing relationships, or visualizing data.
