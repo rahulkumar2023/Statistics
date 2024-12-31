@@ -56,8 +56,4 @@ These files perform statistical analyses, visualization, and computations on the
 
 This repository is intended for educational and research purposes. The data and analyses showcase various statistical techniques and their applications.
 
-## Contributions
-
-Feel free to fork this repository, make improvements, and submit pull requests.
-
 ---
